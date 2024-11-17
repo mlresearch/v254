@@ -1,0 +1,132 @@
+---
+booktitle: Proceedings of the MICCAI Workshop on Computational Pathology
+shortname: MICCAI COMPAYL 2024
+year: '2024'
+start: &1 2024-10-06
+end: 2024-10-06
+published: 2024-11-17
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '254'
+layout: proceedings
+issn: 2640-3498
+id: COMPAY2024
+month: 0
+cycles: false
+bibtex_editor: Ciompi, Francesco and Khalili, Nadieh and Studer, Linda and Poceviciute,
+  Milda and Khan, Amjad and Veta, Mitko and Jiao, Yiping and Haj-Hosseini, Neda and
+  Chen, Hao and Raza, Shan and Minhas, Fayyaz and Zlobec, Inti and Burlutskiy, Nikolay
+  and Vilaplana, Veronica and Brattoli, Biagio and Muller, Henning and Atzori, Manfredo
+  and Raza, Shan and Minhas, Fayyaz
+editor:
+- given: Francesco
+  family: Ciompi
+- given: Nadieh
+  family: Khalili
+- given: Linda
+  family: Studer
+- given: Milda
+  family: Poceviciute
+- given: Amjad
+  family: Khan
+- given: Mitko
+  family: Veta
+- given: Yiping
+  family: Jiao
+- given: Neda
+  family: Haj-Hosseini
+- given: Hao
+  family: Chen
+- given: Shan
+  family: Raza
+- given: Fayyaz
+  family: Minhas
+- given: Inti
+  family: Zlobec
+- given: Nikolay
+  family: Burlutskiy
+- given: Veronica
+  family: Vilaplana
+- given: Biagio
+  family: Brattoli
+- given: Henning
+  family: Muller
+- given: Manfredo
+  family: Atzori
+- given: Shan
+  family: Raza
+- given: Fayyaz
+  family: Minhas
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the MICCAI Workshop on Computational Pathology
+    Held in Marrakesh, Morocco on 06 October 2024
+
+  Published as Volume 254 by the Proceedings of Machine Learning Research on 17 November 2024.
+
+  Volume Edited by:
+    Francesco Ciompi
+    Nadieh Khalili
+    Linda Studer
+    Milda Poceviciute
+    Amjad Khan
+    Mitko Veta
+    Yiping Jiao
+    Neda Haj-Hosseini
+    Hao Chen
+    Shan Raza
+    Fayyaz Minhas
+    Inti Zlobec
+    Nikolay Burlutskiy
+    Veronica Vilaplana
+    Biagio Brattoli
+    Henning Muller
+    Manfredo Atzori
+    Shan Raza
+    Fayyaz Minhas
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06 Oct
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v254"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v254
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v254
+email: ''
+conference:
+  name: Proceedings of the MICCAI Workshop on Computational Pathology
+  url:
+  location: Marrakesh, Morocco
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v254/bibliography.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v254/bibliography.bib
