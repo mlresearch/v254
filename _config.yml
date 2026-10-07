@@ -2,7 +2,7 @@
 booktitle: Proceedings of the MICCAI Workshop on Computational Pathology
 shortname: MICCAI COMPAYL 2024
 year: '2024'
-start: &1 2024-10-06
+start: 2024-10-06
 end: 2024-10-06
 published: 2024-11-17
 publisher: PMLR
@@ -123,7 +123,7 @@ conference:
   url:
   location: Marrakesh, Morocco
   dates:
-  - *1
+  - 2024-10-06
 analytics:
   google:
     tracking_id: UA-92432422-1
